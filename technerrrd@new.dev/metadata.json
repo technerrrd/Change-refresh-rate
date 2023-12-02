@@ -1,0 +1,8 @@
+{
+  "name": "Change-refresh-rate",
+  "description": "Change refresh rate of main display",
+  "uuid": "technerrrd@new.dev",
+  "shell-version": [
+    "42"
+  ]
+}
